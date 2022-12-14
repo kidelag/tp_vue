@@ -7,7 +7,7 @@
     },
   });
   const handleSubmit = () => {
-    $emit("submitFinal", "wdrjhkfgqze ");
+    $emit("submitFinal", "arguments ");
   };
 </script>
 
